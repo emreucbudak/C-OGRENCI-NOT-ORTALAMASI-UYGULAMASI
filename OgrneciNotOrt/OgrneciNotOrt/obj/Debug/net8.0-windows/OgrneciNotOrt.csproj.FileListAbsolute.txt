@@ -1,0 +1,16 @@
+C:\Users\gamee\source\repos\OgrneciNotOrt\OgrneciNotOrt\bin\Debug\net8.0-windows\OgrneciNotOrt.exe
+C:\Users\gamee\source\repos\OgrneciNotOrt\OgrneciNotOrt\bin\Debug\net8.0-windows\OgrneciNotOrt.deps.json
+C:\Users\gamee\source\repos\OgrneciNotOrt\OgrneciNotOrt\bin\Debug\net8.0-windows\OgrneciNotOrt.runtimeconfig.json
+C:\Users\gamee\source\repos\OgrneciNotOrt\OgrneciNotOrt\bin\Debug\net8.0-windows\OgrneciNotOrt.dll
+C:\Users\gamee\source\repos\OgrneciNotOrt\OgrneciNotOrt\bin\Debug\net8.0-windows\OgrneciNotOrt.pdb
+C:\Users\gamee\source\repos\OgrneciNotOrt\OgrneciNotOrt\obj\Debug\net8.0-windows\OgrneciNotOrt.Form1.resources
+C:\Users\gamee\source\repos\OgrneciNotOrt\OgrneciNotOrt\obj\Debug\net8.0-windows\OgrneciNotOrt.csproj.GenerateResource.cache
+C:\Users\gamee\source\repos\OgrneciNotOrt\OgrneciNotOrt\obj\Debug\net8.0-windows\OgrneciNotOrt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamee\source\repos\OgrneciNotOrt\OgrneciNotOrt\obj\Debug\net8.0-windows\OgrneciNotOrt.AssemblyInfoInputs.cache
+C:\Users\gamee\source\repos\OgrneciNotOrt\OgrneciNotOrt\obj\Debug\net8.0-windows\OgrneciNotOrt.AssemblyInfo.cs
+C:\Users\gamee\source\repos\OgrneciNotOrt\OgrneciNotOrt\obj\Debug\net8.0-windows\OgrneciNotOrt.csproj.CoreCompileInputs.cache
+C:\Users\gamee\source\repos\OgrneciNotOrt\OgrneciNotOrt\obj\Debug\net8.0-windows\OgrneciNotOrt.dll
+C:\Users\gamee\source\repos\OgrneciNotOrt\OgrneciNotOrt\obj\Debug\net8.0-windows\refint\OgrneciNotOrt.dll
+C:\Users\gamee\source\repos\OgrneciNotOrt\OgrneciNotOrt\obj\Debug\net8.0-windows\OgrneciNotOrt.pdb
+C:\Users\gamee\source\repos\OgrneciNotOrt\OgrneciNotOrt\obj\Debug\net8.0-windows\OgrneciNotOrt.genruntimeconfig.cache
+C:\Users\gamee\source\repos\OgrneciNotOrt\OgrneciNotOrt\obj\Debug\net8.0-windows\ref\OgrneciNotOrt.dll
